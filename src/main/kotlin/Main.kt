@@ -8,7 +8,7 @@ var chep= Human("Rabecca", 24, 56)
     chep.birthday()
     println(chep.age)
 
-    val myDetail= Detail("Rabecca", "Chepkemboi","chepkemboirabecca@gmail.com","0716607726","becca 57")
+    val myDetail= User("Rabecca", "Chepkemboi","chepkemboirabecca@gmail.com","0716607726","becca 57")
     println(myDetail.email)
     println(myDetail.password)
 }
@@ -26,6 +26,6 @@ class Human(var name: String, var age: Int, var weight: Int){
     }
 
 }
-data class Detail(var fistName: String, var lastName: String, var email: String, var phoneNumber: String, var password: String ){
+data class User(var fistName: String, var lastName: String, var email: String, var phoneNumber: String, var password: String ){
 
 }
