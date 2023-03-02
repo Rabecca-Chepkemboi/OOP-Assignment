@@ -8,9 +8,9 @@ var chep= Human("Rabecca", 24, 56)
     chep.birthday()
     println(chep.age)
 
-    val myDetail= User("Rabecca", "Chepkemboi","chepkemboirabecca@gmail.com","0716607726","becca 57")
-    println(myDetail.email)
-    println(myDetail.password)
+    val myUser= User("Rabecca", "Chepkemboi","chepkemboirabecca@gmail.com","0716607726","becca 57")
+    println(myUser.email)
+    println(myUser.password)
 }
 class Human(var name: String, var age: Int, var weight: Int){
     fun eat(foodWight: Int){

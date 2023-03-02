@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef2e93e-4f0a-4993-a5af-e9aacc24c28d" name="Changes" comment="" />
+    <list default="true" id="aef2e93e-4f0a-4993-a5af-e9aacc24c28d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-oop/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-oop/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
